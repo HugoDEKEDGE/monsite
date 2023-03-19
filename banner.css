@@ -1,0 +1,12 @@
+#banner {
+  height: 75vh;
+  background-image: url("https://img5.goodfon.com/wallpaper/nbig/2/90/samolet-lainer-airbus-qatar-airways-airbus-a350-1000-passazh.jpg");
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  text-shadow: 3px 2px 2px black;
+}
